@@ -14,7 +14,7 @@ This is a repository to showcase skills, share projects and track my progress in
   - R
     - R Project here
   - SQL
-    - SQL Project here
+    - [Student Course Enrollment](https://github.com/andreaord23/PortfolioProjects/blob/1789a6c42e80f823caa2b06eeb6f5d60d0abce72/Student%20Course%20Enrollment.sql)
   - PowerBI
     - PowerBI Project here
 
@@ -23,7 +23,7 @@ This is a repository to showcase skills, share projects and track my progress in
 Here is a list of data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Python Project
-**Code:** bloop
+**Code:** [Student Course Enrollment.sql](https://github.com/andreaord23/PortfolioProjects/blob/1789a6c42e80f823caa2b06eeb6f5d60d0abce72/Student%20Course%20Enrollment.sql)
 
 **Goal:** chicken
 
