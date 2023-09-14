@@ -23,12 +23,17 @@ This is a repository to showcase skills, share projects and track my progress in
 Here is a list of data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Python Project
-#### Code:
+#### Code: bloop
 #### Goal:
+  chicken
 #### Description:
+  bloop
 #### Skills:
-#### Technology: 
-#### Results: 
+  bloop
+#### Technology:
+  bloop
+#### Results:
+  bloop
 
 
 
