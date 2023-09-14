@@ -2,16 +2,33 @@
 
 ## About 
 
-Hi there! Welcome, I am Andrea. I have healthcare and research background
+Hi there! Welcome, I am Andrea. I graduated 
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. 
 
 ## Table of Contents
-
+- About Me
+- Portfolio Projects
+  - Python
+    - Python Project here
+  - R
+    - R Project here
+  - SQL
+    - SQL Project here
+  - PowerBI
+    - PowerBI Project here
 
 
 ## Portfolio Projects
+Here is a list of data analytics projects briefly describing the technology stack used to solve cases.
 
+### Python Project
+#### Code:
+#### Goal:
+#### Description:
+#### Skills:
+#### Technology: 
+#### Results: 
 
 
 
