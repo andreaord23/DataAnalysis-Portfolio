@@ -17,6 +17,9 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Student Course Enrollment](https://github.com/andreaord23/PortfolioProjects/blob/1789a6c42e80f823caa2b06eeb6f5d60d0abce72/Student%20Course%20Enrollment.sql)
   - PowerBI
     - PowerBI Project here
+  - Education
+  - Certificate
+  - Contacts
 
 
 ## Portfolio Projects
